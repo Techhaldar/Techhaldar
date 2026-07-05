@@ -63,29 +63,29 @@ Alongside front-end development, I have working knowledge of **PHP, Laravel, Nod
 
 # 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=techhaldar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=letstechonline&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=techhaldar&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=letstechonline&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=techhaldar&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=letstechonline&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=techhaldar&theme=algolia&no-frame=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=letstechonline&theme=algolia&no-frame=true&margin-w=10)
 
 ---
 
 ## 📊 Contribution Graph
 
-[![Ratin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techhaldar&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ratin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=letstechonline&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🔝 Top Contributed Repository
 
-![](https://github-contributor-stats.vercel.app/api?username=techhaldar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=letstechonline&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
@@ -95,4 +95,4 @@ Alongside front-end development, I have working knowledge of **PHP, Laravel, Nod
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=techhaldar&icon=5&color=6)
+![](https://visitcount.itsvg.in/api?id=letstechonline&icon=5&color=6)
