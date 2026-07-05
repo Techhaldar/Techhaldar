@@ -1,24 +1,99 @@
-# 💫 About Me:
-Hi 👋, I am Ratin Haldar<br><br>🎓 I’m a BCA graduate with a strong passion for web development and programming. My skill set includes:<br><br>🌐 Web Development: Proficient in HTML, CSS, and JavaScript.<br>🛠️ Version Control: Experienced with Git and GitHub for effective collaboration and code management.<br>💻 Programming: Solid knowledge of C and C++ for building efficient and robust applications.<br><br>I'm constantly learning and exploring new technologies to enhance my development skills. Let's connect and build something amazing together!
+# Hi there 👋, I'm Ratin Haldar
 
+### Front-End Developer | React.js | Laravel | JavaScript | UI/UX Enthusiast
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ratin.haldar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techhaldar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ratin-haldar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ratinhaldar123) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ratin-Haldar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RatinHaldar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Techhaldar) 
+I'm a **Front-End Developer** with **1+ year of experience** in building modern, responsive, and performance-optimized web applications.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=techhaldar&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=techhaldar&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=techhaldar&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I specialize in transforming UI/UX designs into clean, pixel-perfect, and mobile-friendly websites using **HTML, CSS, JavaScript, Tailwind CSS, and React.js**. I enjoy creating fast, accessible, and user-centric digital experiences.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=techhaldar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=techhaldar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Alongside front-end development, I have working knowledge of **PHP, Laravel, Node.js, SQL, and REST APIs**, allowing me to collaborate efficiently with backend teams and understand full-stack application architecture.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=techhaldar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 💼 Front-End Developer with **1+ years of experience**
+- 🌱 Currently learning advanced **Laravel** & **Next.js**
+- 💻 Passionate about clean code and modern UI development
+- 📱 Love building responsive and performance-focused websites
+- 🤝 Open to collaborating on Web Development projects
+- 📫 Reach me: **your-email@example.com**
+
+---
+
+## 🌐 Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ratin.haldar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/techhaldar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ratin-haldar)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Techhaldar)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RatinHaldar)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/ratinhaldar123)
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://quora.com/profile/Ratin-Haldar)
+
+---
+
+# 💻 Tech Stack
+
+### Front-End
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=techhaldar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=techhaldar&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=techhaldar&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=techhaldar&theme=algolia&no-frame=true&margin-w=10)
+
+---
+
+## 📊 Contribution Graph
+
+[![Ratin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techhaldar&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🔝 Top Contributed Repository
+
+![](https://github-contributor-stats.vercel.app/api?username=techhaldar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+## 💡 What I Believe
+
+> "Great user experiences are built with clean code, responsive design, and continuous learning."
+
+---
+
+![](https://visitcount.itsvg.in/api?id=techhaldar&icon=5&color=6)
